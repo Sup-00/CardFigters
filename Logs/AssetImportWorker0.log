@@ -1,0 +1,215 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.13f1 (71691879b7f5) revision 7432472'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise LTSC 2019; OS build 17763.1697; Version 1809; 64bit' Language: 'ru' Physical Memory: 32720 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Programs\Unity\2020.3.13f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Git/CardFigters
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60933
+Successfully changed project path to: D:/Git/CardFigters
+D:/Git/CardFigters
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 61.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.13f1 (71691879b7f5)
+[Subsystems] Discovering subsystems at path D:/Programs/Unity/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Git/CardFigters/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   27.21.14.6140
+Initialize mono
+Mono path[0] = 'D:/Programs/Unity/2020.3.13f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Programs/Unity/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Programs/Unity/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56388
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Programs/Unity/2020.3.13f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Programs/Unity/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001387 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 61.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.048 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004307 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 63.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.303 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2121 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.6 MB.
+System memory in use after: 96.7 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 2566.
+Total: 2.633800 ms (FindLiveObjects: 0.199600 ms CreateObjectMapping: 0.086400 ms MarkObjects: 2.236000 ms  DeleteObjects: 0.110400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/3D Models
+  artifactKey: Guid(c3778666e574c0948ab894ab533b98f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Models using Guid(c3778666e574c0948ab894ab533b98f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7cedc16a0824e48c5cf58402916fc33') in 0.516360 seconds 
+  Import took 0.520194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/3D Models/Charectors/Animations/Animator
+  artifactKey: Guid(d814727e8b1e2c141969544b6bfda9f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Models/Charectors/Animations/Animator using Guid(d814727e8b1e2c141969544b6bfda9f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2903ab3bd2e3c1b8459a01317ba56dd') in 0.001180 seconds 
+  Import took 0.026224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/3D Models/Charectors
+  artifactKey: Guid(f5c814d679c103b4db40524b3138e275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Models/Charectors using Guid(f5c814d679c103b4db40524b3138e275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e4b099c6da631c46f03b9f766934c7b') in 0.001135 seconds 
+  Import took 0.004914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/3D Models/Charectors/Animations
+  artifactKey: Guid(270ecc0ca410be64088dfbff0aa782e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Models/Charectors/Animations using Guid(270ecc0ca410be64088dfbff0aa782e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b60f0ed9fe02a07381cffbe1f777283') in 0.001189 seconds 
+  Import took 0.073166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.652715 seconds.
+  path: Assets/3D Models/Charectors/Animations/Player
+  artifactKey: Guid(00a1f1543c5e7744eb4f85b29afbbf99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Models/Charectors/Animations/Player using Guid(00a1f1543c5e7744eb4f85b29afbbf99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b5a0977dd98517417176c3e5ad37e00') in 0.001647 seconds 
+  Import took 0.183754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.201616 seconds.
+  path: Assets/3D Models/Charectors/Animations/Player/man_pilot_Rig@Boxing.fbx
+  artifactKey: Guid(5ee0c6bf1e7045243897456ba2e3dba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Models/Charectors/Animations/Player/man_pilot_Rig@Boxing.fbx using Guid(5ee0c6bf1e7045243897456ba2e3dba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '175d84e34dc5db65346dcf94de58f024') in 2.110744 seconds 
+  Import took 2.114899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.294479 seconds.
+  path: Assets/3D Models/Charectors/Animations/Animator/Boxing
+  artifactKey: Guid(fdea9bc8c8e23224bbc26abb973df6f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Models/Charectors/Animations/Animator/Boxing using Guid(fdea9bc8c8e23224bbc26abb973df6f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6dff2ac16ca3c98f3055b93fca2be90') in 0.002027 seconds 
+  Import took 0.049526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.591343 seconds.
+  path: Assets/3D Models/Charectors/Animations/Animator/Boxing/Boxing_1.anim
+  artifactKey: Guid(f0687fd4e5678f841a681006a8e9305c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Models/Charectors/Animations/Animator/Boxing/Boxing_1.anim using Guid(f0687fd4e5678f841a681006a8e9305c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a7ef0857bef2991074fa88dc05cf4b5') in 0.023372 seconds 
+  Import took 0.049672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.067552 seconds.
+  path: Assets/3D Models/Charectors/Animations/Animator/Boxing/Boxing_1.anim
+  artifactKey: Guid(f0687fd4e5678f841a681006a8e9305c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Models/Charectors/Animations/Animator/Boxing/Boxing_1.anim using Guid(f0687fd4e5678f841a681006a8e9305c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a7ef0857bef2991074fa88dc05cf4b5') in 0.019152 seconds 
+  Import took 0.023211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.240380 seconds.
+  path: Assets/3D Models/Charectors/Animations/Animator/Boxing/Boxing_2.anim
+  artifactKey: Guid(0cced1a322c90f642a7223fae18cab6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Models/Charectors/Animations/Animator/Boxing/Boxing_2.anim using Guid(0cced1a322c90f642a7223fae18cab6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7086c74e73c00e161c5a059452265a4') in 0.015271 seconds 
+  Import took 0.038688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.176593 seconds.
+  path: Assets/3D Models/Charectors/Animations/Animator/Boxing/Boxing_3.anim
+  artifactKey: Guid(559a838497e38da4391f93821c41ae44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Models/Charectors/Animations/Animator/Boxing/Boxing_3.anim using Guid(559a838497e38da4391f93821c41ae44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c48c45d25c87ad30bda8733d293a1979') in 0.017574 seconds 
+  Import took 0.072950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.741863 seconds.
+  path: Assets/3D Models/Charectors/Animations/Animator/Boxing/Boxing_4.anim
+  artifactKey: Guid(028ab480056809144b35d36f3fbcc60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Models/Charectors/Animations/Animator/Boxing/Boxing_4.anim using Guid(028ab480056809144b35d36f3fbcc60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82b45540bd8c971aad5dbb9fea5b6b88') in 0.023191 seconds 
+  Import took 0.028060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.271498 seconds.
+  path: Assets/3D Models/Charectors/Animations/Animator/Boxing/Boxing_5.anim
+  artifactKey: Guid(4689f406771846d4bbb91cd46cb13c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Models/Charectors/Animations/Animator/Boxing/Boxing_5.anim using Guid(4689f406771846d4bbb91cd46cb13c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fe0197df31a87f38b2d372e6a160b96') in 0.020840 seconds 
+  Import took 0.037456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.478614 seconds.
+  path: Assets/3D Models/Charectors/Animations/Animator/Boxing/Boxing_6.anim
+  artifactKey: Guid(76c160b4ab07e674eb643137438c01be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Models/Charectors/Animations/Animator/Boxing/Boxing_6.anim using Guid(76c160b4ab07e674eb643137438c01be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d9d39a6efb77bb9ad847324cfd80838') in 0.022656 seconds 
+  Import took 0.027310 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.14 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2609.
+Total: 3.152700 ms (FindLiveObjects: 0.260100 ms CreateObjectMapping: 0.096200 ms MarkObjects: 2.776600 ms  DeleteObjects: 0.018600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
