@@ -3,7 +3,7 @@
 
 [Видео](https://youtu.be/LW4JIhLKRpE)
 
-![Image alt](https://github.com/Sup-00/Pictures/blob/main/CardFighter/Screenshot_1.png)
-![Image alt](https://github.com/Sup-00/Pictures/blob/main/CardFighter/Screenshot_2.png)
-![Image alt](https://github.com/Sup-00/Pictures/blob/main/CardFighter/Screenshot_3.png)
-![Image alt](https://github.com/Sup-00/Pictures/blob/main/CardFighter/Screenshot_4.png)
+![Image alt](https://github.com/Sup-00/CardFigters/blob/main/Screenshot_1.png)
+![Image alt](https://github.com/Sup-00/CardFigters/blob/main/Screenshot_2.png)
+![Image alt](https://github.com/Sup-00/CardFigters/blob/main/Screenshot_3.png)
+![Image alt](https://github.com/Sup-00/CardFigters/blob/main/Screenshot_4.png)
